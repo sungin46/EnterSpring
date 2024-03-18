@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="expert001_03.CarTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-03-18T07:42:28" hostname="hongseong-in-ui-MacBookAir.local" time="0.009">
+  <properties/>
+  <testcase name="자동차_코리아타이어_장착_테스트()" classname="expert001_03.CarTest" time="0.008"/>
+  <testcase name="자동차_아메리카타이어_장착_테스트()" classname="expert001_03.CarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
